@@ -11,6 +11,7 @@
 
 @import url(../blocks/content/content.css);
 @import url(../blocks/content/__idea-text/content__idea-text.css);
+@import url(../blocks/content/__idea-description/content__idea-description.css);
 @import url(../blocks/content/__title/content__title.css);
 @import url(../blocks/content/__idea-container/content__idea-container.css);
 @import url(../blocks/content/__cards-item/content__cards-item.css);
