@@ -1,0 +1,7 @@
+.footer__container-text {
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  margin-bottom: 132px;
+  margin-top: 40px;
+}

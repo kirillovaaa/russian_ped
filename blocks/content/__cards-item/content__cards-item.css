@@ -1,0 +1,5 @@
+.content__cards-item {
+  display: flex;
+  flex-direction: row;
+  gap: 29px;
+}

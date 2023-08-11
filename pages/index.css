@@ -1,0 +1,47 @@
+@import url(../vendor/normalize.css);
+
+@import url(../fonts/fonts.css);
+
+@import url(../blocks/body/body.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__button/header__button.css);
+@import url(../blocks/header/__buttons/header__buttons.css);
+@import url(../blocks/header/__image/header__image.css);
+
+@import url(../blocks/content/content.css);
+@import url(../blocks/content/__idea-text/content__idea-text.css);
+@import url(../blocks/content/__title/content__title.css);
+@import url(../blocks/content/__idea-container/content__idea-container.css);
+@import url(../blocks/content/__cards-item/content__cards-item.css);
+@import url(../blocks/content/__team-cards/content__team-cards.css);
+@import url(../blocks/content/__team-image/content__team-image.css);
+@import url(../blocks/content/__team-text/content__team-text.css);
+@import url(../blocks/content/__team-text2/content__team-text2.css);
+@import url(../blocks/content/__team-text3/content__team-text3.css);
+@import url(../blocks/content/__text-container/content__text-container.css);
+
+@import url(../blocks/content/__author-description/content__author-description.css);
+@import url(../blocks/content/__author-name/content__author-name.css);
+@import url(../blocks/content/__author-surname/content__author-surname.css);
+@import url(../blocks/content/__sukhomlinsky-container/content__sukhomlinsky-container.css);
+@import url(../blocks/content/__sukhomlinsky-text/content__sukhomlinsky-text.css);
+@import url(../blocks/content/__ushinsky-button/content__ushinsky-button.css);
+@import url(../blocks/content/__ushinsky-container/content__ushinsky-container.css);
+@import url(../blocks/content/__ushinsky-image/content__ushinsky-image.css);
+@import url(../blocks/content/__ushinsky-information/content__ushinsky-information.css);
+@import url(../blocks/content/__ushinsky-text/content__ushinsky-text.css);
+@import url(../blocks/content/__ushinsky-toknow/content__ushinsky-toknow.css);
+@import url(../blocks/content/__ushinsky-toknow/content__ushinsky-toknow.css);
+@import url(../blocks/content/__video-data/content__video-data.css);
+@import url(../blocks/content/__video-container/content__video-container.css);
+@import url(../blocks/content/__video-description/content__video-description.css);
+@import url(../blocks/content/__video-image/content__video-image.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__container/footer__container.css);
+@import url(../blocks/footer/__logo-bird/footer__logo-bird.css);
+@import url(../blocks/footer/__logos/footer__logos.css);
+@import url(../blocks/footer/__logos-image/footer__logos-image.css);
+@import url(../blocks/footer/__text/footer__text.css);
+@import url(../blocks/footer/__container-text/footer__container-text.css);

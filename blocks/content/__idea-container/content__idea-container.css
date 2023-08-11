@@ -1,0 +1,6 @@
+.content__idea-container {
+  display: flex;
+  flex-direction: row;
+  margin-left: 35px;
+  margin-bottom: 40px;
+}

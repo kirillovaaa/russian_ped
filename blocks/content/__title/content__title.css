@@ -1,0 +1,9 @@
+.content__title {
+  font-weight: 700px;
+  font-size: 50px;
+  background-image: linear-gradient(#c08940, #ffe09d, #c38d41, #986628);
+  margin-left: 40px;
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

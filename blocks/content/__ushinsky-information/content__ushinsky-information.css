@@ -1,0 +1,5 @@
+.content__ushinsky-information {
+  display: flex;
+  flex-direction: column;
+  margin-top: 250px;
+}

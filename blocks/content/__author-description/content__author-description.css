@@ -1,0 +1,6 @@
+.content__author-description {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  margin-left: 349px;
+}

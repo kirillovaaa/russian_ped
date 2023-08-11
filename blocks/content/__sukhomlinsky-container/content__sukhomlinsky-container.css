@@ -1,0 +1,4 @@
+.content__sukhomlinsky-container {
+  display: flex;
+  flex-direction: column;
+}

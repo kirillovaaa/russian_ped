@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-family: "Montserrat", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  background: #1a43b7 url(/images/background.svg);
+  color: #cde9fb;
+}
+
+* {
+  box-sizing: border-box;
+}
